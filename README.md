@@ -2,7 +2,7 @@
 
 **I turn messy data into stories people actually want to read.** 📊
 
-I'm an aspiring data analyst who believes every dataset hides a plot twist, and I enjoy finding it. Outside of data, you'll find me [hobby: reading / music / cooking / travelling].
+I'm an aspiring data analyst who believes every dataset hides a plot twist, and I enjoy finding it. When I'm not working with data, you'll find me listening to music and podcasts 🎧, singing 🎤, making crafts 🎨, or watching movies 🎬.
 
 🔍 **Currently exploring:** global health data and public health dashboards
 🌱 **Currently learning:** [e.g., advanced SQL, DAX, statistics]
