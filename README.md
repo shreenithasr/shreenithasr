@@ -1,10 +1,8 @@
-## Welcome to my Data Era ✨
-
-I'm Shreenitha S R
+## Welcome! Let's turn data into stories that make sense🌟.
 
 **I turn messy data into stories people actually want to read.** 📊
 
-I'm an aspiring data analyst who believes every dataset hides a plot twist, and I enjoy finding it. I clean data, find the story in it, and turn it into dashboards people can act on. When I'm not working with data, you'll find me listening to music and podcasts 🎧, singing 🎤, making crafts 🎨, or watching movies 🎬.
+I'm Shreenitha S R an aspiring data analyst who believes every dataset hides a plot twist, and I enjoy finding it. I clean data, find the story in it, and turn it into dashboards people can act on. When I'm not working with data, you'll find me listening to music and podcasts 🎧, singing 🎤, making crafts 🎨, or watching movies 🎬.
 
 - 🔍 **Currently exploring:** Global Health Data and Public Health Dashboards
 - 🌱 **Currently learning:** Advanced SQL, DAX and Statistics
