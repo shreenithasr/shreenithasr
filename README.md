@@ -4,10 +4,10 @@
 
 I'm an aspiring data analyst who believes every dataset hides a plot twist, and I enjoy finding it. When I'm not working with data, you'll find me listening to music and podcasts 🎧, singing 🎤, making crafts 🎨, or watching movies 🎬.
 
-🔍 **Currently exploring:** Global Health Data and Public Health Dashboards
-🌱 **Currently learning:** [e.g., advanced SQL, DAX, statistics]
-🎯 **Looking for:** Entry-level Data Analyst Opportunities
-💬 **Ask me about:** Power BI dashboards, Excel, or [a fun topic]
+- 🔍 **Currently exploring:** Global Health Data and Public Health Dashboards
+- 🌱 **Currently learning:** Advanced SQL, DAX and Statistics
+- 🎯 **Looking for:** Entry-level Data Analyst opportunities
+- 💬 **Ask me about:** Power BI dashboards, Excel, or my latest podcast and movie recommendations
 
 ## 🛠️ Toolbox
 
