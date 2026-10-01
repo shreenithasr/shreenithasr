@@ -7,7 +7,7 @@ I'm an aspiring data analyst who believes every dataset hides a plot twist, and 
 - 🔍 **Currently exploring:** Global Health Data and Public Health Dashboards
 - 🌱 **Currently learning:** Advanced SQL, DAX and Statistics
 - 🎯 **Looking for:** Entry-level Data Analyst opportunities
-- 💬 **Ask me about:** Power BI dashboards, Excel, or my latest podcast and movie recommendations
+
 
 ## 🛠️ Toolbox
 
