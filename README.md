@@ -1,4 +1,5 @@
-##
+## ✨ Welcome to my data era ✨
+
 👋 Hi, I'm Shreenitha S R
 
 **I turn messy data into stories people actually want to read.** 📊
