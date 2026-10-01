@@ -1,4 +1,4 @@
-# ✨ Welcome! Let's turn data into stories that make sense 🌟
+# ✨ Welcome! Let's make data make sense 🌟
 
 ### 📊 I turn messy data into stories people actually want to read.
 
