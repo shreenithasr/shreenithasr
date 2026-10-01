@@ -26,8 +26,8 @@ I'm an aspiring data analyst who believes every dataset hides a plot twist, and 
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreenitha-s-r/)
+- 📧 shreenitha.senthilkumar13@gmail.com
 
 > *Raw data in → insights out.* 🚀
 > 
