@@ -28,7 +28,7 @@ An analysis of the global tuberculosis burden in 2024, looking at how the diseas
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreenitha-s-r/)
+- 💼 https://www.linkedin.com/in/shreenitha-s-r/
 - 📧 shreenitha.senthilkumar13@gmail.com
 
 > *Raw data in → insights out.* 🚀
