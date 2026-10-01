@@ -2,20 +2,12 @@
 
 **I turn messy data into stories people actually want to read.** 📊
 
-I'm an aspiring data analyst who believes every dataset hides a plot twist, and I enjoy finding it. When I'm not working with data, you'll find me listening to music and podcasts 🎧, singing 🎤, making crafts 🎨, or watching movies 🎬.
+I'm an aspiring data analyst who believes every dataset hides a plot twist, and I enjoy finding it. I clean data, find the story in it, and turn it into dashboards people can act on. When I'm not working with data, you'll find me listening to music and podcasts 🎧, singing 🎤, making crafts 🎨, or watching movies 🎬.
 
 - 🔍 **Currently exploring:** Global Health Data and Public Health Dashboards
 - 🌱 **Currently learning:** Advanced SQL, DAX and Statistics
 - 🎯 **Looking for:** Entry-level Data Analyst opportunities
 
-## 💡 What I Do
-
-I help turn raw numbers into answers. My usual process looks like this:
-
-- 🧹 **Clean and prepare data:** Fixing duplicates, missing values and messy formats so the numbers can be trusted
-- 🔎 **Explore and analyse:** Looking for trends, patterns and outliers that explain what's really happening
-- 📊 **Build dashboards:** Creating clear, interactive Power BI reports that make decisions easier
-- 🗣️ **Tell the story:** Turning findings into simple insights that anyone, not just analysts, can understand
 
 ## 🛠️ Toolbox
 
