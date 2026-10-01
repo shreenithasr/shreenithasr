@@ -16,13 +16,13 @@ I'm an aspiring data analyst who believes every dataset hides a plot twist, and 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
-| Project | What it explores |
-|---|---|
-| [🌍 Global TB Insights 2024](https://github.com/shreenithasr/Global-TB-Insights-2024-Exploring-the-Tuberculosis-Burden) | [one line: e.g., how the tuberculosis burden varies across countries and what stands out] |
-| [📈 Power BI Assignments](https://github.com/shreenithasr/Power-BI-Assignments) | [one line: the dashboards you built and the skills they show] |
-| [🧮 Excel Assignments](https://github.com/shreenithasr/Excel-Assignments) | [one line: e.g., pivot tables, formulas, data cleaning] |
+### 🌍 [Global TB Insights 2024: Exploring the Tuberculosis Burden](https://github.com/shreenithasr/Global-TB-Insights-2024-Exploring-the-Tuberculosis-Burden)
+
+An analysis of the global tuberculosis burden in 2024, looking at how the disease varies across countries and regions and which patterns stand out.
+
+**Tools:** Power BI • Excel
 
 ## 📬 Let's Connect
 
