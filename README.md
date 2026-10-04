@@ -4,7 +4,7 @@
 
 Hi, I'm **Shreenitha S R**, an aspiring data analyst who believes every dataset hides a plot twist, and I enjoy finding it. I clean data, uncover what it's saying, and build dashboards people can act on.
 
-When I'm not working with data, you'll find me listening to music and podcasts 🎧, singing 🎤, making crafts 🎨, or watching movies 🎬.
+When I'm not working with data, you'll find me listening to music and podcasts 🎧, singing 🎤, or watching movies 🎬.
 
 - 🔍 **Currently exploring:** Global Health Data and Public Health Dashboards
 - 🌱 **Currently learning:** Advanced SQL, DAX and Statistics
